@@ -6,14 +6,14 @@ h1 {
   color: cyan;
   user-select: none;
 }
-my photo {
+.my photo {
   width: 300;
   height: 300;
   border-radius: 50%;
   margin-top: 70;
   user-select: none;
 }
-icons {
+.icons {
   width: 50;
   height: 50;
   border-radius:50%;
