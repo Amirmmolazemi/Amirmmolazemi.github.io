@@ -8,6 +8,7 @@ body {
     justify-content: center;
     align-items: center;
     background: #000;
+    text-align: center;
 }
 
 .glow-on-hover {
@@ -47,7 +48,7 @@ h1 {
 .my photo {
   width: 300;
   height: 300;
-  border-radius: 50%;
+  border-radius: 50px;
   margin-top: 60;
   user-select: none;
 }
