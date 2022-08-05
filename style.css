@@ -1,1 +1,22 @@
-
+body {
+  background-color: gray;
+  text-align: center;
+}
+h1 {
+  color: cyan;
+  user-select: none;
+}
+my photo {
+  width: 300;
+  height: 300;
+  border-radius: 50%;
+  margin-top: 70;
+  user-select: none;
+}
+icons {
+  width: 50;
+  height: 50;
+  border-radius:50%;
+  possition: absolute;
+  user-select: none;
+  
