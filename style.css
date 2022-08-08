@@ -33,6 +33,6 @@ section {
   border: 2px solid black;
   height: 270;
     width: 400;
-  background-image: ../photo/blue.jpg;
+  background-image: url("https://github.com/Amirmmolazemi/Amirmmolazemi.github.io/blob/main/photo/blue.jpg?raw=true")
 }
 
