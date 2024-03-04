@@ -1,2 +1,4 @@
 # Web Introduction
-my first Page that i introduce my self. so you can watch my lifeStyle on it. 
+Hello everyone👋
+I'm amirmohammad and you can check my CV on this website.
+ 
